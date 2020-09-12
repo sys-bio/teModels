@@ -6,7 +6,7 @@ with open("README.txt", "r") as fh:
 setup(
     name='teModels',    # This is the name of your PyPI-package.
     packages=find_packages(),
-    version='0.91',        # Update the version number for new releases
+    version='0.98',        # Update the version number for new releases
     #scripts=['teutilities'],    # The name of your scipt, and also the command you'll be using for calling it
     author='H M Sauro',
     author_email='hsauro@uw.edu',
